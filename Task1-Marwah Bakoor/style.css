@@ -72,6 +72,7 @@ a:link, a:visited {
     width: 50px;
     border-radius: 50%;
     background-color:#ff4136;
+    cursor: pointer;
 }
 
 /* arrows */
@@ -162,6 +163,12 @@ a:link, a:visited {
     .Cntroller-div .down{
     
         top:70%;
+
+    }
+    .circet{
+        height: 40px;
+        width: 40px;
+        border-radius: 50%;
 
     }
 }
